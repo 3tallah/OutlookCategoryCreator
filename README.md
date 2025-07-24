@@ -77,7 +77,7 @@ Autoresponse
 
 **Mahmoud A. Atallah**
 Azure Solutions Lead | Microsoft MVP
-📧 [mahmoud@cloudmechanics.ae](mailto:mahmoud@cloudmechanics.ae)
-🌐 [cloudmechanics.ae](https://cloudmechanics.ae)
-🔗 [linkedin.com/in/mahmoudatallah](https://linkedin.com/in/mahmoudatallah)
+* 📧 [mahmoud@cloudmechanics.ae](mailto:mahmoud@cloudmechanics.ae)
+* 🌐 [cloudmechanics.ae](https://cloudmechanics.ae)
+* 🔗 [linkedin.com/in/mahmoudatallah](https://linkedin.com/in/mahmoudatallah)
 
